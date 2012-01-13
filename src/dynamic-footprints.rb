@@ -4,7 +4,7 @@
 # Wachunga
 # version 1.0
 # 2005-11-07
-# See https://github.com/Wachunga/rmxp-dynamic-footprints for details
+# See https://github.com/wachunga/rmxp-dynamic-footprints for details
 #==============================================================================
 
 #----------------------------------------------------------------------
