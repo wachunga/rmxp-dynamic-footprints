@@ -1,8 +1,6 @@
 Dynamic Footprints (v 1.0)
 ===
 
-A script for [RPG Maker XP](http://en.wikipedia.org/wiki/RPG_Maker_XP), which uses Ruby. Written years ago and posted on some now-defunct forums, but may still be useful to folks.
-
 Footprints are dynamically created for characters moving across tiles (from any tileset) set in the database to have a certain terrain tag (1 by default). For those that wouldn't leave any (e.g. flying characters), it's easy to specify not to leave footprints. Footprints fade away after a user-specified time at a user-specified rate. There shouldn't be any significant impact to framerate.
 
 ![Footprints screenshot](http://s88387243.onlinehome.us/rmxp/footprints.jpg)
@@ -34,5 +32,5 @@ Usage
  
 You use `footprints_default.png` or, if you'd like to make your own, use `footprints_template.png`.
 
-To prevent an event from having any footprints (e.g. birds), include <nofp> somewhere in its name.
+To prevent an event from having any footprints (e.g. birds), include `<nofp>` somewhere in its name.
 
