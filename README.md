@@ -3,7 +3,7 @@ Dynamic Footprints (v 1.0)
 
 Footprints are dynamically created for characters moving across tiles (from any tileset) set in the database to have a certain terrain tag (1 by default). For those that wouldn't leave any (e.g. flying characters), it's easy to specify not to leave footprints. Footprints fade away after a user-specified time at a user-specified rate. There shouldn't be any significant impact to framerate.
 
-![Footprints screenshot](http://s88387243.onlinehome.us/rmxp/footprints.jpg)
+![Footprints screenshot](footprints.jpg)
 
 Features
 ---
